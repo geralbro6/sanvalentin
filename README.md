@@ -1,2 +1,2 @@
 # sanvalentin
-inital commit
+initial commit
